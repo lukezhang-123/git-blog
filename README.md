@@ -62,9 +62,9 @@ Internet世界互联，拉进了人们的距离，但是信息时代，日新月
 
 visio studio源码编译开源数据库，mysql，postgresql
 
-https://github.com/lukezhang-123/database-mysql
+https://github.com/lukezhang-123/database-mysql/tree/main/mysql-5.7-msvc-gui-proj
 
-https://github.com/lukezhang-123/database-postgresql
+https://github.com/lukezhang-123/database-postgresql/blob/main/pg-9.2/windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BC%96%E8%AF%91pg9.2.md
 
 ---
 
