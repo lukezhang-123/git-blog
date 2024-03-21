@@ -8,7 +8,7 @@ Internet世界互联，拉进了人们的距离，但是信息时代，日新月
 
 所以有的东西还是需要整理保存收藏，记录自己的生活和收获的轨迹。
 
-### 个人标签
+## 个人标签
 
 10+年ITer老兵
 
@@ -21,7 +21,7 @@ Internet世界互联，拉进了人们的距离，但是信息时代，日新月
 系统命令
 
 
-### 玩玩网络
+## 玩玩网络
 
 csdn记录
 
@@ -33,7 +33,7 @@ https://lukezhang-123.github.io/
 
 ![](README/2024-03-21-16-23-07.png)
 
-### java, jdk核心内容整理
+## java, jdk核心内容整理
 
 [java核心基础--jdk源码分析学习--基本数据类型](https://blog.csdn.net/c5113620/article/details/78722359)
 
@@ -55,7 +55,7 @@ https://lukezhang-123.github.io/
 
 [java核心基础--jdk源码分析学习--TreeMap](https://blog.csdn.net/c5113620/article/details/78826287)
 
-### java微服务，框架
+## java微服务，框架
 
 [springcloud要点记录](https://blog.csdn.net/c5113620/article/details/78885686)
 
@@ -67,7 +67,7 @@ https://lukezhang-123.github.io/
 
 ---
 
-### 数据库
+## 数据库
 
 visio studio2022 IDE源码编译开源数据库，mysql，postgresql，方便代码浏览
 
@@ -77,11 +77,11 @@ https://github.com/lukezhang-123/database-postgresql
 
 ---
 
-### 其他内容，陆续整理中。。。
+## 其他内容，陆续整理中。。。
 
 To be continue...
 
-### 总结
+## 总结
 
 Success is not overnight. It's when every day you get a little better than the day before.
 
